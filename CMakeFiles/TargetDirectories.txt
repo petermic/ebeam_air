@@ -1,0 +1,8 @@
+/root/ebeam_air/CMakeFiles/ebeam_air.dir
+/root/ebeam_air/CMakeFiles/EbeamAir.dir
+/root/ebeam_air/CMakeFiles/edit_cache.dir
+/root/ebeam_air/CMakeFiles/rebuild_cache.dir
+/root/ebeam_air/CMakeFiles/list_install_components.dir
+/root/ebeam_air/CMakeFiles/install.dir
+/root/ebeam_air/CMakeFiles/install/local.dir
+/root/ebeam_air/CMakeFiles/install/strip.dir
